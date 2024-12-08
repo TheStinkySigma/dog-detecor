@@ -16,3 +16,4 @@ To work with the Colab notebook, follow these steps:
 8. **Explore the notebook**: Take some time to explore the notebook, read the comments, and understand the code. This will help you to better understand the project and make modifications as needed.
 
 Since I don't have direct access to the notebook, I recommend exploring the notebook and its cells to understand the specific requirements and tasks. If you have any specific questions or need help with a particular cell or task, feel free to ask.
+link: https://colab.research.google.com/drive/1cQR-QuSex7FPiZgIuYk0kStdZzW-sU8D?usp=sharing
